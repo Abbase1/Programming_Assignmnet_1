@@ -1,1 +1,1 @@
-# Programming_Assignmnet_1
+# Programming_Assignment_1
